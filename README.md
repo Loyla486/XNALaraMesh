@@ -1,6 +1,6 @@
 XPS Tools 
 =========
-Blender an addon to Export/Import Haydee assets.
+Blender an addon to Export/Import Haydee assets (AKA .Mesh, .XPS, .asci (Mesh).
 
 With Blender 2.80 released there where many changes.
 
